@@ -1,0 +1,12 @@
+# Dated output folders and zip archives created by the script (e.g. 20260616/, 20260616.zip)
+/[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]/
+/[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]*.zip
+
+# Local copies of the script with your real token filled in
+*.local.ps1
+
+# OS / editor clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
